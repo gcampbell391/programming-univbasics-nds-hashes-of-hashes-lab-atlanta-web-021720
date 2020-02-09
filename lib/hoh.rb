@@ -26,7 +26,7 @@
 # }
 
 def naming_system
-  array1 = {}
+  hoh1 = {}
 end 
   # Remember:
   #  Kingdom
